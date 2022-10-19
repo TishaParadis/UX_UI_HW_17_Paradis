@@ -5,14 +5,13 @@
 }
 
 div.logo {
-    width: 23%;
+    width: -2%;
     padding: 5%;
-    text-align: center;
-    
+    text-align: center;    
 }
 nav  {
     width: 73%;
-    padding: 1%;
+    padding: 5%;
 }
 nav ul {
     width: 50%;
