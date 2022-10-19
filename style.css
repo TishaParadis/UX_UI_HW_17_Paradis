@@ -7,7 +7,7 @@
 div.logo {
     width: 23%;
     padding: 5%;
-    text-align: center;
+    -align: center;
     
 }
 nav  {
