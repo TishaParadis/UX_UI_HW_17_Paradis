@@ -34,12 +34,15 @@ div.content {
     overflow: hidden;
     background-color: #333;
   }
- footer ul li {
+ footer ul {
+    text-align: center;
+ }
+ li {
     display:inline-block;
-    vertical-align: ;
-    padding: center;
+    vertical-align: center;
+    padding: 1px;
     justify-content: space-evenly;
-    
+      
 }
 
 
