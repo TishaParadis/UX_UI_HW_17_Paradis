@@ -1,9 +1,8 @@
 /*my portfolio stylesheet*/
-.inline-block{
+.inline-block {
     display: inline-block;
     vertical-align: top;
 }
-
 div.logo {
     width: -2%;
     padding: 1%;
@@ -28,6 +27,7 @@ div.content {
  footer {
     background-color: #373738;
     padding: center;
+    text-justify: center;
 }
 .topnav {
     overflow: hidden;
