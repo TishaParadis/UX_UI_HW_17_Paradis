@@ -4,7 +4,7 @@
     vertical-align: top;
 }
 div.logo {
-    width: -2%;
+    width: -29%;
     padding: 1%;
     text-align: center;     
 }
@@ -12,9 +12,9 @@ nav  {
     width: 82%;
     padding: 7%;
 }
-nav ul {
+header ul {
     width: 50%;
-    margin-left: auto;
+    margin-left: 150px;
  }
 .hero image{
     height: 60px;
