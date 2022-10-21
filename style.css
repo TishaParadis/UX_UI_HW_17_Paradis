@@ -1,5 +1,5 @@
 /*my portfolio stylesheet*/
-.inline-block {
+.inline-block li {
     display: inline-block;
     vertical-align: top;
 }
@@ -24,9 +24,17 @@ div.content {
     width: 800px;
     margin: 0 auto;
 }
+
+p {
+    text-align: center;
+}
+
+section {
+    padding-bottom: 10px;
+}
  footer {
     background-color: #373738;
-    padding: center;
+    padding: bottom;
     text-justify: center;
     color: white;
 }
