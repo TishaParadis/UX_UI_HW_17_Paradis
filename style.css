@@ -28,6 +28,7 @@ div.content {
     background-color: #373738;
     padding: center;
     text-justify: center;
+    color: white;
 }
 .topnav {
     overflow: hidden;
