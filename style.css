@@ -1,4 +1,5 @@
 /*my portfolio stylesheet*/
+
 .inline-block li {
     display: inline-block;
     vertical-align: top;
@@ -28,7 +29,6 @@ div.content {
 p {
     text-align: center;
 }
-
 section {
     padding-bottom: 10px;
 }
@@ -52,33 +52,3 @@ section {
     justify-content: space-evenly;
       
 }
-
-
-/*meta name="viewport" content="width=device-width, initial-scale=1"
-<style>
-* {
-  box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Style the top navigation bar */
-/*.topnav {
-  overflow: hidden;
-  background-color: #333;
-}
-
-/* Style the topnav links */
-/*.topnav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-*/
