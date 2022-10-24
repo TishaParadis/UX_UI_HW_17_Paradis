@@ -19,8 +19,11 @@ nav  {
     flex-direction: row;
     background-color: lightgrey;
 }
+.grid-container {
+    display: grid;
+}
 div {
-    display: flex: 
+    display: flex 
     flex-direction: row;
 }
 header ul {
@@ -38,9 +41,11 @@ div.content {
 p {
     text-align: center;
 }
+
 section {
     padding-bottom: 10px;
 }
+
  footer {
     background-color: #373738;
     padding: bottom;
