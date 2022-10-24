@@ -14,6 +14,11 @@ nav  {
     width: 82%;
     padding: 7%;
 }
+.flex-container {
+    display: flex 33%;
+    margin-left: center;
+    padding: auto;
+}
 header ul {
     width: 50%;
     margin-left: 150px;
