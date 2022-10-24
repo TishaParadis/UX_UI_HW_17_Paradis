@@ -15,9 +15,13 @@ nav  {
     padding: 7%;
 }
 .flex-container {
-    display: flex 33%;
-    margin-left: center;
-    padding: auto;
+    display: flex;
+    flex-direction: row;
+    background-color: lightgrey;
+}
+div {
+    display: flex: 
+    flex-direction: row;
 }
 header ul {
     width: 50%;
